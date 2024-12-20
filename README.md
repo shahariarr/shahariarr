@@ -99,8 +99,7 @@ design with robust functionality,I strive to craft software that enriches lives 
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/800px-ChatGPT-Logo.svg.png?i=ChatGPT" height="40" alt="ChatGPT logo"  />
-   <img width="12" />
-  <img src="https://img.utdstc.com/icon/d1e/cdf/d1ecdfe13a696d09c4834e50a0a8fb260d7cee3d5584dacdfa079be5afb86cbf:200?i=ChatGPT" height="40" alt="ChatGPT logo"  />
+ 
   
 </div>
 

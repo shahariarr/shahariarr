@@ -73,7 +73,7 @@ design with robust functionality,I strive to craft software that enriches lives 
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -97,6 +97,8 @@ design with robust functionality,I strive to craft software that enriches lives 
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/800px-ChatGPT-Logo.svg.png?i=ChatGPT" height="40" alt="ChatGPT logo"  />
   
 </div>
 

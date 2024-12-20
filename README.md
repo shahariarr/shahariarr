@@ -82,6 +82,8 @@ design with robust functionality,I strive to craft software that enriches lives 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
+    <img src="https://www.gstatic.com/monospace/230530/icon-192.png?i=heroku" height="40" alt="heroku logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />

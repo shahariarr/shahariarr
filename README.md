@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 ### <div align="left">I'm Shahariar Rahman 👨‍💻 working remotely since 2023🚀</div>  
 <br/>  

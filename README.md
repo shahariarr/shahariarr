@@ -61,6 +61,9 @@ design with robust functionality,I strive to craft software that enriches lives 
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
 ###
 
 <h2 align="left">🛠  Tools</h2>
@@ -110,6 +113,8 @@ design with robust functionality,I strive to craft software that enriches lives 
  
   
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=shahariarr&show_icons=true&count_private=true&hide_border=true" align="left" />  
@@ -117,6 +122,9 @@ design with robust functionality,I strive to craft software that enriches lives 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarr&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ## Contributions 
  
@@ -133,5 +141,8 @@ design with robust functionality,I strive to craft software that enriches lives 
 
 
 ###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 

@@ -8,7 +8,7 @@
 <br/>  
   
 
-- 🧑‍💼 I’m currently working on [ i2 Technologies Limited](https://i2technologies.net/)  
+- 💻 I’m currently working on [ i2 Technologies Limited](https://i2technologies.net/)  
   
 
 - 🌱 I’m currently learning Vue.js  

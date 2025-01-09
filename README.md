@@ -17,7 +17,9 @@
 - ❓ Ask me about anything related to LAMP stack   
   
 
-- ⚡ Fun fact: I think ,I like to entertain and watch 
+- ⚡ Fun fact: I think ,I like to entertain and watch
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   
 ## More About me
  
@@ -26,6 +28,8 @@ design with robust functionality,I strive to craft software that enriches lives 
 
 
 <br/>  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ###
 
